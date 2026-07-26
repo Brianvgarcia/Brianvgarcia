@@ -68,8 +68,8 @@ I'm a geospatial scientist working at the intersection of **remote sensing, hydr
 |---|---|
 | 🛰️ **[Remote-Sensing Tutorials](https://github.com/Brianvgarcia/remote-sensing-tutorials)** | Reproducible Colab notebooks: GEE data processing, CHIRPS bias correction, IDW vs. Kriging, NOAA reanalysis |
 | 🗺️ **[Land-Change Forecasting (CA–Markov)](https://gist.github.com/Brianvgarcia/ce1b3bdafffe49ca7cb686df45cb5c08)** | CA–Markov + machine learning for deforestation & land-use projection (Caquetá, Colombia) |
-| 🌾 **Carbon & Water Modelling** | GEDI aboveground-biomass mapping, catena/terrain stratification, water-limited carbon potential on GEE *(repo coming soon)* |
-| 🧪 **Phosphorus Mapping** | Global Olsen-P and N:P limitation surfaces in R *(repo coming soon)* |
+| 🌾 **[Carbon & Water Modelling](https://github.com/Brianvgarcia/carbon-water-modelling)** | GEDI aboveground-biomass mapping, catena/terrain stratification, water-limited carbon potential on GEE |
+| 🧪 **[Phosphorus Mapping](https://github.com/Brianvgarcia/phosphorus-mapping)** | Global Olsen-P and N:P limitation surfaces in R |
 
 ---
 
