@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://briangis.com"><img src="https://img.shields.io/badge/Portfolio-briangis.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://orcid.org/0000-0002-6319-9649"><img src="https://img.shields.io/badge/ORCID-0000--0002--6319--9649-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
+  <a href="https://orcid.org/0000-0002-6319-9649"><img src="https://img.shields.io/badge/%20-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
   <a href="https://scholar.google.com/citations?user=9-GvmV0AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
   <a href="https://www.linkedin.com/in/brayan-valencia-garcia-69041b173/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:jbrayanvalenciag@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
