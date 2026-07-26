@@ -25,7 +25,7 @@
 
 I'm a geospatial scientist working at the intersection of **remote sensing, hydrology, and agricultural ecology**. I build Earth-observation pipelines that turn satellite and climate data into decision-ready information for smallholder farming systems, water resources, and carbon landscapes.
 
-- 🌍 **Currently:** PhD research reconstructing **smallholder maize cropping calendars in Kenya** by fusing optical (Sentinel-2) and radar (Sentinel-1) time series.
+- 🌍 **Currently:** GIS/Climate research reconstructing **4R stewardship smallholder maize cropping calendars in Kenya** by fusing optical (Sentinel-2) and radar (Sentinel-1) time series.
 - 🔭 I care about making Earth observation work in **cloud-prone, data-scarce regions**.
 - 🌐 More projects & writing: **[briangis.com](https://briangis.com)**
 
